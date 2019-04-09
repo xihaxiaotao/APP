@@ -1,0 +1,52 @@
+        #all{
+           background-color:#ddd ;    
+        }
+        #d_main{
+            width:1000px;
+            margin: 0px auto ;
+            border:1px  black;
+            margin-top: 50px;
+            padding-left: 20px;
+        }
+        .div1{
+           height: 300px;
+           width: 200px;
+           border:1px solid #999 ;
+           margin-right: 50px;
+           float: left;
+           background-color:#f9f9f9;
+           padding-left: 0px;
+           padding-top: 100px;
+        }
+        #h1{
+          width:250px;
+          position: relative;
+          left: -300px;
+          top: -30px;
+        }
+        #h2{
+          width:250px;
+          position: relative;
+          left: 280px;
+          top: -40px;
+        }
+       h1{
+         margin-left: 370px;
+       }
+       #d_menu{
+          width:800px;
+          border: 1px  black;
+          margin-left: 130px;
+       }
+       .d2{
+         
+         text-align: center;
+       }
+       .d_logo{
+         margin-bottom: 5px;
+       }
+       .div1:HOVER {
+       box-shadow:0px 0px  3px #bbb;
+	       transform: scale(1.1);
+           transition: all 0.2s linear;
+       }

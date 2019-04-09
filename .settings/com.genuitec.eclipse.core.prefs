@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=src/main/webapp/statics/localjs/echarts.min.js,src/main/webapp/statics/js/validator.js,src/main/webapp/statics/js/moment/moment.min.js,src/main/webapp/statics/js/jquery.min.js
+validator.Unchecked=
